@@ -3,7 +3,7 @@
 - Professor: Junior R. Ribeiro [j5rodrib@gmail.com](mailto:j5rodrib@gmail.com)
     - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<efis\> no assunto, do contrário será filtrado e jogado na lixeira!
 
-# DISCIPLINA: CÁLCULO I
+# DISCIPLINA: CÁLCULO I - 68h
 
 -  Números reais e funções de uma variável real a valores reais;
 - Limite e continuidade de função de uma variável real;
