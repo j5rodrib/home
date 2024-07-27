@@ -11,6 +11,50 @@
 4. Noções de Trigonometria.
 
 
+# CALENDÁRIO
+
+- [Calendário Acadêmico](https://prograd.ufms.br/files/2023/08/Calendario2024-RESOLUCAO-COUN-n-294-de-25-08-2023.pdf)
+- [Correção do Calendário Acadêmico](https://boletimoficial.ufms.br/bse/publicacao?id=526856)
+
+
+| Aula |  Dia   | Assunto |
+| :--- | :----: | :------ |
+| 1a   | 05 Ago |         |
+| 1b   | 07 Ago |         |
+| 2a   | 12 Ago |         |
+| 2b   | 14 Ago |         |
+| 3a   | 19 Ago |         |
+| 3b   | 21 Ago |         |
+| 4a   | 28 Ago |         |
+| 4b   | 02 Set |         |
+| 5a   | 04 Set |         |
+| 5b   | 09 Set |         |
+| 6a   | 11 Set |         |
+| 6b   | 16 Set |         |
+| 7a   | 18 Set |         |
+| 7b   | 23 Set |         |
+| 8a   | 25 Set |         |
+| 8b   | 30 Set |         |
+| 9a   | 02 Out |         |
+| 9b   | 14 Out |         |
+| 10a  | 16 Out |         |
+| 10b  | 21 Out |         |
+| 11a  | 23 Out |         |
+| 11b  | 28 Out |         |
+| 12a  | 30 Out |         |
+| 12b  | 04 Nov |         |
+| 13a  | 06 Nov |         |
+| 13b  | 11 Nov |         |
+| 14a  | 13 Nov |         |
+| 14b  | 18 Nov |         |
+| 15a  | 20 Nov |         |
+| 15b  | 25 Nov |         |
+| 16a  | 27 Nov |         |
+| 16b  | 02 Dez |         |
+| 17a  | 04 Dez |         |
+| 17b  | 09 Dez |         |
+
+
 # Bibliografia Básica
 1. IEZZI, Gelson; MURAKAMI, Carlos. **Fundamentos de matemática elementar: conjuntos, funções**. v. 1. 6a. ed. São Paulo: Atual, 1985.
 2. IEZZI, Gelson; DOLCE, Osvaldo; MURAKAMI, Carlos. **Fundamentos de matemática elementar: logaritmos**. v. 2. 8a. ed. São Paulo: Atual, 1999.
