@@ -11,6 +11,31 @@
 4. Derivadas de função de uma variável real e aplicações.
 5. Noções básicas de matrizes, sistemas lineares e determinantes.
 
+# CALENDÁRIO
+
+- [Calendário Acadêmico](https://prograd.ufms.br/files/2023/08/Calendario2024-RESOLUCAO-COUN-n-294-de-25-08-2023.pdf)
+- [Correção do Calendário Acadêmico](https://boletimoficial.ufms.br/bse/publicacao?id=526856)
+
+
+| Aula |  Dia   | Assunto |
+| :--- | :----: | :------ |
+| 1    | 06 Ago |         |
+| 2    | 13 Ago |         |
+| 3    | 20 Ago |         |
+| 4    | 27 Ago |         |
+| 5    | 03 Set |         |
+| 6    | 10 Set |         |
+| 7    | 17 Set |         |
+| 8    | 24 Set |         |
+| 9    | 01 Out |         |
+| 10   | 15 Out |         |
+| 11   | 22 Out |         |
+| 12   | 29 Out |         |
+| 13   | 05 Nov |         |
+| 14   | 12 Nov |         |
+| 15   | 19 Nov |         |
+| 16   | 26 Nov |         |
+| 17   | 03 Dez |         |
 
 # Bibliografia Básica:
 
