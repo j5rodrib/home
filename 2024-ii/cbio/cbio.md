@@ -72,3 +72,7 @@ $$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T
 Learning, 2012.
 4. GUIDORIZZI, Hamilton L. **Um curso de cálculo**, V. 1. Rio de Janeiro: LTC, 2018.
 
+
+
+# LINKS ÚTEIS
+ - [Links úteis](https://j5rodrib.github.io/home/2024-ii/links-uteis.html)
