@@ -1,3 +1,10 @@
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript"
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 # ADMINISTRAÇÃO
 - [HOMEPAGE](https://esan.ufms.br/administracao-esan)
 - Professor: Junior R. Ribeiro [j5rodrib@gmail.com](mailto:j5rodrib@gmail.com)
@@ -17,27 +24,34 @@
 - [Correção do Calendário Acadêmico](https://boletimoficial.ufms.br/bse/publicacao?id=526856)
 
 
-| Aula        |       Dia       | Assunto                                                   |
-| :---------- | :-------------: | :-------------------------------------------------------- |
-| 1           |     09 Ago      | Apresentação, plano da disciplina e avaliação diagnóstica |
-| 2           |     16 Ago      | Elementos básicos                                         |
-| 3           |     23 Ago      | Elementos básicos                                         |
-| 4           |     30 Ago      | Funções                                                   |
-| 5           |     06 Set      | Funções                                                   |
-| 6           |     13 Set      | Funções                                                   |
-| 7           |     20 Set      | Limites                                                   |
-| 8           |     27 Set      | Limites                                                   |
-| 9           |     04 Out      | Limites                                                   |
-| [**10**](.) | [**18 Out**](.) | [**Prova P1**](.)                                         |
-| 11          |     25 Out      | Derivadas                                                 |
-| 12          |     01 Nov      | Derivadas                                                 |
-| 13          |     08 Nov      | Derivadas                                                 |
-| 14          |     22 Nov      | Sistemas lineares                                         |
-| 15          |     29 Nov      | Sistemas lineares                                         |
-| 16          |     06 Dez      | Sistemas lineares                                         |
-| [**17**](.) | [**13 Dez**](.) | [**Prova P2**](.)                                         |
-| --          |     20 Dez      | Substitutiva - caso necessário                            |
+| Aula   |    Dia     | Assunto                                                   |
+| :----- | :--------: | :-------------------------------------------------------- |
+| 1      |   09 Ago   | Apresentação, plano da disciplina e avaliação diagnóstica |
+| 2      |   16 Ago   | Elementos básicos                                         |
+| 3      |   23 Ago   | Elementos básicos                                         |
+| 4      |   30 Ago   | Funções                                                   |
+| 5      |   06 Set   | Funções                                                   |
+| 6      |   13 Set   | Funções                                                   |
+| 7      |   20 Set   | Limites                                                   |
+| 8      |   27 Set   | Limites                                                   |
+| 9      |   04 Out   | Limites                                                   |
+| **10** | **18 Out** | [**Prova P1**](.)                                         |
+| 11     |   25 Out   | Derivadas                                                 |
+| 12     |   01 Nov   | Derivadas                                                 |
+| 13     |   08 Nov   | Derivadas                                                 |
+| 14     |   22 Nov   | Sistemas lineares                                         |
+| 15     |   29 Nov   | Sistemas lineares                                         |
+| 16     |   06 Dez   | Sistemas lineares                                         |
+| **17** | **13 Dez** | [**Prova P2**](.)                                         |
+| --     |   20 Dez   | Substitutiva - caso necessário                            |
 
+### Cálculo da nota
+
+- $NF$: nota final;
+- $P_1,P_2$: notas da primeira e segunda provas;
+- $T_1,T_2$: notas do primeiro e segundo trabalhos.
+
+$$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T_2}{100}\right) $$
 
 # Bibliografia Básica:
 
