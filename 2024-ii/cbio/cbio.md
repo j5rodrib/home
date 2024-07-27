@@ -2,6 +2,7 @@
 - [HOMEPAGE](https://inbio.ufms.br/cbioba/)
 - Professor: Junior R. Ribeiro [j5rodrib@gmail.com](mailto:j5rodrib@gmail.com)
     - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<cbiol\> no assunto, do contrário será filtrado e jogado na lixeira!
+- Horário de atendimento - plantão de dúvidas: estarei disponível às quintas-feiras, das 13h15 às 17h25, na sala do Prof. Willy no INMA. Também poderei atender nas sextas-feiras, no mesmo horário e local, mas somente quando solicitado por e-mail previamente.
 
 # DISCIPLINA: MATEMÁTICA - 68h
 1. Elementos básicos da matemática.
