@@ -2,6 +2,7 @@
 - [HOMEPAGE##](.)
 - Professor: Junior R. Ribeiro [j5rodrib@gmail.com](mailto:j5rodrib@gmail.com)
     - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<efis\> no assunto, do contrário será filtrado e jogado na lixeira!
+- Horário de atendimento - plantão de dúvidas: estarei disponível às sextas-feiras, das 07h15 às 11h25, na sala do Prof. Willy no INMA. Também poderei atender nas terças-feiras, no mesmo horário e local, mas somente quando solicitado por e-mail previamente.
 
 # DISCIPLINA: CÁLCULO I - 68h
 
