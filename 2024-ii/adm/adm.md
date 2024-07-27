@@ -45,7 +45,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 | **17** | **13 Dez** | [**Prova P2**](.)                                         |
 | --     |   20 Dez   | Substitutiva - caso necessário                            |
 
-### Cálculo da nota
+## Cálculo da nota final
 
 - $NF$: nota final;
 - $P_1,P_2$: notas da primeira e segunda provas;
