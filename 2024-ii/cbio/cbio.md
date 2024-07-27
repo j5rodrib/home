@@ -40,6 +40,13 @@
 | [**17**](.) | [**03 Dez**](.) | [**Prova P2**](.)                                         |
 | --          |     10 Dez      | Substitutiva - caso necessário                            |
 
+## Cálculo da nota final
+
+- $NF$: nota final;
+- $P_1,P_2$: notas da primeira e segunda provas;
+- $T_1,T_2$: notas do primeiro e segundo trabalhos.
+
+$$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T_2}{100}\right) $$
 
 # Bibliografia Básica
 
