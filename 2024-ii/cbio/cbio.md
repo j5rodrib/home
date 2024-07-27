@@ -1,7 +1,7 @@
 # CIÊNCIAS BIOLÓGICAS
 - [HOMEPAGE](https://inbio.ufms.br/cbioba/)
 - Professor: Junior R. Ribeiro [j5rodrib@gmail.com](mailto:j5rodrib@gmail.com)
-    - ⚠️ATENÇÃO: enviar email com \<cbiol\> no assunto, do contrário será filtrado e jogado na lixeira!
+    - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<cbiol\> no assunto, do contrário será filtrado e jogado na lixeira!
 
 # DISCIPLINA: MATEMÁTICA - 68h
 1. Elementos básicos da matemática.
