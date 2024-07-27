@@ -17,25 +17,26 @@
 - [Correção do Calendário Acadêmico](https://boletimoficial.ufms.br/bse/publicacao?id=526856)
 
 
-| Aula |  Dia   | Assunto |
-| :--- | :----: | :------ |
-| 1    | 09 Ago |         |
-| 2    | 16 Ago |         |
-| 3    | 23 Ago |         |
-| 4    | 30 Ago |         |
-| 5    | 06 Set |         |
-| 6    | 13 Set |         |
-| 7    | 20 Set |         |
-| 8    | 27 Set |         |
-| 9    | 04 Out |         |
-| 10   | 18 Out |         |
-| 11   | 25 Out |         |
-| 12   | 01 Nov |         |
-| 13   | 08 Nov |         |
-| 14   | 22 Nov |         |
-| 15   | 29 Nov |         |
-| 16   | 06 Dez |         |
-| 17   | 13 Dez |         |
+| Aula   |    Dia     | Assunto                                                   |
+| :----- | :--------: | :-------------------------------------------------------- |
+| 1      |   09 Ago   | Apresentação, plano da disciplina e avaliação diagnóstica |
+| 2      |   16 Ago   | Elementos básicos                                         |
+| 3      |   23 Ago   | Elementos básicos                                         |
+| 4      |   30 Ago   | Funções                                                   |
+| 5      |   06 Set   | Funções                                                   |
+| 6      |   13 Set   | Funções                                                   |
+| 7      |   20 Set   | Limites                                                   |
+| 8      |   27 Set   | Limites                                                   |
+| 9      |   04 Out   | Limites                                                   |
+| **10** | **18 Out** | **Prova P1**                                              |
+| 11     |   25 Out   | Derivadas                                                 |
+| 12     |   01 Nov   | Derivadas                                                 |
+| 13     |   08 Nov   | Derivadas                                                 |
+| 14     |   22 Nov   | Sistemas lineares                                         |
+| 15     |   29 Nov   | Sistemas lineares                                         |
+| 16     |   06 Dez   | Sistemas lineares                                         |
+| **17** | **13 Dez** | **Prova P2**                                              |
+| --     |   20 Dez   | Substitutiva - caso necessário                            |
 
 
 # Bibliografia Básica:
