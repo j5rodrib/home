@@ -12,6 +12,32 @@
 5. Noções básicas de matrizes, sistemas lineares e determinantes.
 
 
+# CALENDÁRIO
+- [Calendário Acadêmico](https://prograd.ufms.br/files/2023/08/Calendario2024-RESOLUCAO-COUN-n-294-de-25-08-2023.pdf)
+- [Correção do Calendário Acadêmico](https://boletimoficial.ufms.br/bse/publicacao?id=526856)
+
+
+| Aula |  Dia   | Assunto |
+| :--- | :----: | :------ |
+| 1    | 09 Ago |         |
+| 2    | 16 Ago |         |
+| 3    | 23 Ago |         |
+| 4    | 30 Ago |         |
+| 5    | 06 Set |         |
+| 6    | 13 Set |         |
+| 7    | 20 Set |         |
+| 8    | 27 Set |         |
+| 9    | 04 Out |         |
+| 10   | 18 Out |         |
+| 11   | 25 Out |         |
+| 12   | 01 Nov |         |
+| 13   | 08 Nov |         |
+| 14   | 22 Nov |         |
+| 15   | 29 Nov |         |
+| 16   | 06 Dez |         |
+| 17   | 13 Dez |         |
+
+
 # Bibliografia Básica:
 
 1. TAN, S. T. **Matemática aplicada à administração e economia**. Ed. Rev. São Paulo: Cengage Learning, 2013.
