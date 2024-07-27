@@ -1,8 +1,9 @@
 # CIÊNCIAS BIOLÓGICAS
 - [HOMEPAGE](https://inbio.ufms.br/cbioba/)
 - Professor: Junior R. Ribeiro [j5rodrib@gmail.com](mailto:j5rodrib@gmail.com)
-    - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<cbiol\> no assunto, do contrário será filtrado e jogado na lixeira!
+    - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<cbio\> no assunto, do contrário será filtrado e jogado na lixeira!
 - Horário de atendimento - plantão de dúvidas: estarei disponível às quintas-feiras, das 13h15 às 17h25, na sala do Prof. Willy no INMA. Também poderei atender nas sextas-feiras, no mesmo horário e local, mas somente quando solicitado por e-mail previamente.
+
 
 # DISCIPLINA: MATEMÁTICA - 68h
 1. Elementos básicos da matemática.
@@ -11,39 +12,43 @@
 4. Derivadas de função de uma variável real e aplicações.
 5. Noções básicas de matrizes, sistemas lineares e determinantes.
 
+
 # CALENDÁRIO
 
 - [Calendário Acadêmico](https://prograd.ufms.br/files/2023/08/Calendario2024-RESOLUCAO-COUN-n-294-de-25-08-2023.pdf)
 - [Correção do Calendário Acadêmico](https://boletimoficial.ufms.br/bse/publicacao?id=526856)
 
 
-| Aula |  Dia   | Assunto |
-| :--- | :----: | :------ |
-| 1    | 06 Ago |         |
-| 2    | 13 Ago |         |
-| 3    | 20 Ago |         |
-| 4    | 27 Ago |         |
-| 5    | 03 Set |         |
-| 6    | 10 Set |         |
-| 7    | 17 Set |         |
-| 8    | 24 Set |         |
-| 9    | 01 Out |         |
-| 10   | 15 Out |         |
-| 11   | 22 Out |         |
-| 12   | 29 Out |         |
-| 13   | 05 Nov |         |
-| 14   | 12 Nov |         |
-| 15   | 19 Nov |         |
-| 16   | 26 Nov |         |
-| 17   | 03 Dez |         |
+| Aula        |       Dia       | Assunto                                                   |
+| :---------- | :-------------: | :-------------------------------------------------------- |
+| 1           |     06 Ago      | Apresentação, plano da disciplina e avaliação diagnóstica |
+| 2           |     13 Ago      | Elementos básicos                                         |
+| 3           |     20 Ago      | Elementos básicos                                         |
+| 4           |     27 Ago      | Funções                                                   |
+| 5           |     03 Set      | Funções                                                   |
+| 6           |     10 Set      | Funções                                                   |
+| 7           |     17 Set      | Limites                                                   |
+| 8           |     24 Set      | Limites                                                   |
+| 9           |     01 Out      | Limites                                                   |
+| [**10**](.) | [**15 Out**](.) | [**Prova P1**](.)                                         |
+| 11          |     22 Out      | Derivadas                                                 |
+| 12          |     29 Out      | Derivadas                                                 |
+| 13          |     05 Nov      | Derivadas                                                 |
+| 14          |     12 Nov      | Sistemas lineares                                         |
+| 15          |     19 Nov      | Sistemas lineares                                         |
+| 16          |     26 Nov      | Sistemas lineares                                         |
+| [**17**](.) | [**03 Dez**](.) | [**Prova P2**](.)                                         |
+| --          |     10 Dez      | Substitutiva - caso necessário                            |
 
-# Bibliografia Básica:
+
+# Bibliografia Básica
 
 1. TAN, S. T. **Matemática aplicada à administração e economia**. Ed. Rev. São Paulo: Cengage Learning, 2013.
 2. LEITHOLD, Louis. **Matemática aplicada à economia e administração**. São Paulo: Harbra, 2001.
 3. FERREIRA, Rosangela S. **Matemática aplicada às ciências agrárias: análise de dados e modelos**. Viçosa: Ed. UFV, 2014.
 4. GOMES, Francisco M. **Pré-cálculo: operações, equações, funções e trigonometria**. São Paulo: Cengage Learning, 2019.
 5. STEWART, James. **Cálculo**, V. 1. São Paulo: Cengage Learning, 2017.
+
 
 # Bibliografia Complementar
 
