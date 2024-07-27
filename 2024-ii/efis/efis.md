@@ -61,6 +61,14 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 | [**17b**](.) | [**09 Dez**](.) | [**Trabalho T2**](.)                                      |
 | --           |     16 Dez      | Substitutiva -- caso necessário                           |
 
+## Cálculo da nota final
+
+- $NF$: nota final;
+- $P_1,P_2$: notas da primeira e segunda provas;
+- $T_1,T_2$: notas do primeiro e segundo trabalhos.
+
+$$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T_2}{100}\right) $$
+
 # Bibliografia Básica
 
 1. THOMAS, George B.; WEIR, Maurice D.; HASS, Joel. **Cálculo**. v. 1. 12a. ed. São Paulo: Pearson, 2012.
