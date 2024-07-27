@@ -25,43 +25,43 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 - [Correção do Calendário Acadêmico](https://boletimoficial.ufms.br/bse/publicacao?id=526856)
 
 
-| Aula         |       Dia       | Assunto                         |
-| :----------- | :-------------: | :------------------------------ |
-| 1a           |     05 Ago      | Funções                         |
-| 1b           |     07 Ago      | Funções                         |
-| 2a           |     12 Ago      | Funções                         |
-| 2b           |     14 Ago      | Funções                         |
-| 3a           |     19 Ago      | Funções                         |
-| 3b           |     21 Ago      | Funções                         |
-| 4a           |     28 Ago      | Funções                         |
-| 4b           |     02 Set      | Funções                         |
-| 5a           |     04 Set      | Funções                         |
-| 5b           |     09 Set      | Funções                         |
-| 6a           |     11 Set      | Limites                         |
-| 6b           |     16 Set      | Limites                         |
-| 7a           |     18 Set      | Limites                         |
-| 7b           |     23 Set      | Limites                         |
-| 8a           |     25 Set      | Limites                         |
-| 8b           |     30 Set      | Limites                         |
-| 9a           |     02 Out      | Limites                         |
-| 9b           |     14 Out      | Limites                         |
-| 10a          |     16 Out      | Limites                         |
-| 10b          |     21 Out      | Limites                         |
-| [**11a**](.) | [**23 Out**](.) | [**Prova P1**](.)               |
-| [**11b**](.) | [**28 Out**](.) | [**Trabalho T1**](.)            |
-| 12a          |     30 Out      | Derivadas e aplicações          |
-| 12b          |     04 Nov      | Derivadas e aplicações          |
-| 13a          |     06 Nov      | Derivadas e aplicações          |
-| 13b          |     11 Nov      | Derivadas e aplicações          |
-| 14a          |     13 Nov      | Derivadas e aplicações          |
-| 14b          |     18 Nov      | Derivadas e aplicações          |
-| 15a          |     20 Nov      | Derivadas e aplicações          |
-| 15b          |     25 Nov      | Derivadas e aplicações          |
-| 16a          |     27 Nov      | Derivadas e aplicações          |
-| 16b          |     02 Dez      | Derivadas e aplicações          |
-| [**17a**](.) | [**04 Dez**](.) | [**Prova P2**](.)               |
-| [**17b**](.) | [**09 Dez**](.) | [**Trabalho T2**](.)            |
-| --           |     16 Dez      | Substitutiva -- caso necessário |
+| Aula         |       Dia       | Assunto                                                   |
+| :----------- | :-------------: | :-------------------------------------------------------- |
+| 1a           |     05 Ago      | Apresentação, plano da disciplina e avaliação diagnóstica |
+| 1b           |     07 Ago      | Funções                                                   |
+| 2a           |     12 Ago      | Funções                                                   |
+| 2b           |     14 Ago      | Funções                                                   |
+| 3a           |     19 Ago      | Funções                                                   |
+| 3b           |     21 Ago      | Funções                                                   |
+| 4a           |     28 Ago      | Funções                                                   |
+| 4b           |     02 Set      | Funções                                                   |
+| 5a           |     04 Set      | Funções                                                   |
+| 5b           |     09 Set      | Funções                                                   |
+| 6a           |     11 Set      | Limites                                                   |
+| 6b           |     16 Set      | Limites                                                   |
+| 7a           |     18 Set      | Limites                                                   |
+| 7b           |     23 Set      | Limites                                                   |
+| 8a           |     25 Set      | Limites                                                   |
+| 8b           |     30 Set      | Limites                                                   |
+| 9a           |     02 Out      | Limites                                                   |
+| 9b           |     14 Out      | Limites                                                   |
+| 10a          |     16 Out      | Limites                                                   |
+| 10b          |     21 Out      | Limites                                                   |
+| [**11a**](.) | [**23 Out**](.) | [**Prova P1**](.)                                         |
+| [**11b**](.) | [**28 Out**](.) | [**Trabalho T1**](.)                                      |
+| 12a          |     30 Out      | Derivadas e aplicações                                    |
+| 12b          |     04 Nov      | Derivadas e aplicações                                    |
+| 13a          |     06 Nov      | Derivadas e aplicações                                    |
+| 13b          |     11 Nov      | Derivadas e aplicações                                    |
+| 14a          |     13 Nov      | Derivadas e aplicações                                    |
+| 14b          |     18 Nov      | Derivadas e aplicações                                    |
+| 15a          |     20 Nov      | Derivadas e aplicações                                    |
+| 15b          |     25 Nov      | Derivadas e aplicações                                    |
+| 16a          |     27 Nov      | Derivadas e aplicações                                    |
+| 16b          |     02 Dez      | Derivadas e aplicações                                    |
+| [**17a**](.) | [**04 Dez**](.) | [**Prova P2**](.)                                         |
+| [**17b**](.) | [**09 Dez**](.) | [**Trabalho T2**](.)                                      |
+| --           |     16 Dez      | Substitutiva -- caso necessário                           |
 
 
 # Bibliografia Básica
