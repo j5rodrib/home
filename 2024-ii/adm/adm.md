@@ -2,7 +2,7 @@
 - [HOMEPAGE](https://esan.ufms.br/administracao-esan)
 - Professor: Junior R. Ribeiro [j5rodrib@gmail.com](mailto:j5rodrib@gmail.com)
     - ⚠️<strong style="color:#ff0000;">ATENÇÃO</strong>: enviar email com \<adm\> no assunto, do contrário será filtrado e jogado na lixeira!
-
+- Horário de atendimento - plantão de dúvidas: estarei disponível às quintas-feiras, das 18h30 às 22h40, na sala [a definir].
 
 # DISCIPLINA: MATEMÁTICA - 68h
 1. Elementos básicos da matemática.
