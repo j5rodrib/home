@@ -45,7 +45,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 | 9b           |     14 Out      | Limites                                                   |
 | 10a          |     16 Out      | Limites                                                   |
 | 10b          |     21 Out      | Limites                                                   |
-| 11a          |     23 Out      | Limites                                                   |
+| 11a          |     23 Out      | Derivadas e aplicações                                    |
 | [**11b**](.) | [**28 Out**](.) | [**Prova P1**](.)                                         |
 | [**12a**](.) | [**30 Out**](.) | [**Trabalho T1**](.)                                      |
 | 12b          |     04 Nov      | Derivadas e aplicações                                    |
