@@ -10,7 +10,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 - [HOMEPAGE](https://engenhariacivil-faeng.ufms.br)
 - Professor: Junior R. Ribeiro [j5rodrib@gmail.com](mailto:j5rodrib@gmail.com)
     - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<eciv\> no assunto, do contrário será filtrado e jogado na lixeira!
-- Horário de atendimento - plantão de dúvidas: estarei disponível às terças-feiras, das 18h30 às 22h40, na sala do Prof. Willy no INMA.
+- Horário de atendimento - plantão de dúvidas: estarei disponível às terças-feiras, das 18h30 às 22h, na sala do Prof. Willy no INMA.
 
 # DISCIPLINA: CÁLCULO I - 68h
 
@@ -69,7 +69,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 - $P_1,P_2$: notas da primeira e segunda provas;
 - $T_1,T_2$: notas do primeiro e segundo trabalhos.
 
-$$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T_2}{100}\right) $$
+$$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T_2}{10}\right) $$
 
 
 # Bibliografia Básica
