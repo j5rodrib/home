@@ -9,7 +9,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 - [HOMEPAGE##](.)
 - Professor: Junior R. Ribeiro [j5rodrib@gmail.com](mailto:j5rodrib@gmail.com)
     - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<efis\> no assunto, do contrário será filtrado e jogado na lixeira!
-- Horário de atendimento - plantão de dúvidas: estarei disponível às sextas-feiras, das 07h15 às 11h25, na sala do Prof. Willy no INMA. Também poderei atender nas terças-feiras, no mesmo horário e local, mas somente quando solicitado por e-mail previamente.
+- Horário de atendimento - plantão de dúvidas: estarei disponível às sextas-feiras, das 07h15 às 11h, na sala do Prof. Willy no INMA. Também poderei atender nas terças-feiras, no mesmo horário e local, mas somente quando solicitado por e-mail previamente.
 
 # DISCIPLINA: CÁLCULO I - 68h
 
@@ -67,7 +67,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 - $P_1,P_2$: notas da primeira e segunda provas;
 - $T_1,T_2$: notas do primeiro e segundo trabalhos.
 
-$$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T_2}{100}\right) $$
+$$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T_2}{10}\right) $$
 
 # Bibliografia Básica
 
