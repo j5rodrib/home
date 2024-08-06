@@ -71,11 +71,20 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 
 $$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T_2}{10}\right) $$
 
+# Bibliografia de Pré-Cálculo:
+
+1. GOMES, Francisco M. **Pré-cálculo: operações, equações, funções e trigonometria**. São Paulo: Cengage Learning, 2019.
+2. HARIKI, Seiji. **Matemática aplicada: administração, economia, contabilidade**. São Paulo: Saraiva, 1999.
+3. ÁVILA, Geraldo. **Cálculo das funções de uma variável real**. v. 1. 7a. ed. Rio de Janeiro: LTC, 2012.
+4. DEMANA, Franklin D. **Pré-cálculo**. São Paulo: Addison & Wesley, 2009.
+
+
 # Bibliografia Básica
 1. IEZZI, Gelson; MURAKAMI, Carlos. **Fundamentos de matemática elementar: conjuntos, funções**. v. 1. 6a. ed. São Paulo: Atual, 1985.
 2. IEZZI, Gelson; DOLCE, Osvaldo; MURAKAMI, Carlos. **Fundamentos de matemática elementar: logaritmos**. v. 2. 8a. ed. São Paulo: Atual, 1999.
 3. IEZZI, Gelson. **Fundamentos de matemática elementar: trigonometria**. v. 3. 7a. ed. São Paulo, Sp: Atual, 1993.
 4. IEZZI, Gelson; HAZZAN, Samuel. **Fundamentos de matemática elementar: sequências, matrizes, determinantes, sistemas**. v. 4. 5a. ed. São Paulo: Atual, 1985.
+
 
 # Bibliografia Complementar:
 1. Sociedade Brasileira de Matemática. **Coletânea de artigos interessantes de matemática elementar: matemática numa perspectiva conceitual**. Rio de Janeiro: Ciência Moderna Ltda, 2012.
