@@ -4,4 +4,5 @@
 - [CIÊNCIAS BIOLÓGICAS - MATEMÁTICA](./2024-ii/cbio/cbio.html)
 - [ENGENHARIA CIVIL - CÁLCULO 1](./2024-ii/eciv/eciv.html)
 - [SISTEMAS DE INFORMAÇÃO - MATEMÁTICA ELEMENTAR](./2024-ii/sinf/sinf.html)
-- [ADMINISTRAÇÃO - MATEMÁTICA](./2024-ii/adm/adm.html)
+- [ADMINISTRAÇÃO (SEXTA-FEIRA, NOTURNO) - MATEMÁTICA](./2024-ii/adm/adm.html)
+- [ADMINISTRAÇÃO (SÁBADO - MATUTINO) - MATEMÁTICA](.)
