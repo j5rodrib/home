@@ -53,12 +53,19 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 
 $$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T_2}{10}\right) $$
 
+
+# Bibliografia de Pré-Cálculo:
+
+1. GOMES, Francisco M. **Pré-cálculo: operações, equações, funções e trigonometria**. São Paulo: Cengage Learning, 2019.
+2. HARIKI, Seiji. **Matemática aplicada: administração, economia, contabilidade**. São Paulo: Saraiva, 1999.
+3. ÁVILA, Geraldo. **Cálculo das funções de uma variável real**. v. 1. 7a. ed. Rio de Janeiro: LTC, 2012.
+4. DEMANA, Franklin D. **Pré-cálculo**. São Paulo: Addison & Wesley, 2009.
+
 # Bibliografia Básica:
 
 1. TAN, S. T. **Matemática aplicada à administração e economia**. Ed. Rev. São Paulo: Cengage Learning, 2013.
 2. LEITHOLD, Louis. **Matemática aplicada à economia e administração**. São Paulo: Harbra, 2001.
 3. FERREIRA, Rosangela S. **Matemática aplicada às ciências agrárias: análise de dados e modelos**. Viçosa: Ed. UFV, 2014.
-4. GOMES, Francisco M. **Pré-cálculo: operações, equações, funções e trigonometria**. São Paulo: Cengage Learning, 2019.
 5. STEWART, James. **Cálculo**, V. 1. São Paulo: Cengage Learning, 2017.
 
 # Bibliografia Complementar
