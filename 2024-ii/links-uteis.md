@@ -26,7 +26,6 @@ Há abaixo uma sequência de vídeos diferentes sobre estes assuntos, com divers
  - [![alt](https://img.youtube.com/vi/k2XkYEUH9nA/0.jpg)](https://www.youtube.com/watch?v=k2XkYEUH9nA)
  - [![alt](https://img.youtube.com/vi/xpUxOm7M76w/0.jpg)](https://www.youtube.com/watch?v=xpUxOm7M76w)
  - [![alt](https://img.youtube.com/vi/YC9BzwyjlwY/0.jpg)](https://www.youtube.com/watch?v=YC9BzwyjlwY)
- - [![alt](https://img.youtube.com/vi/dO3UEmTSUPY/0.jpg)](https://www.youtube.com/watch?v=dO3UEmTSUPY)
  - [![alt](https://img.youtube.com/vi/2CH1VXUZItU/0.jpg)](https://www.youtube.com/watch?v=2CH1VXUZItU)
  - [![alt](https://img.youtube.com/vi/tXWWFNv_2es/0.jpg)](https://www.youtube.com/watch?v=tXWWFNv_2es)
  - [![alt](https://img.youtube.com/vi/rlj-jqcRmHo/0.jpg)](https://www.youtube.com/watch?v=rlj-jqcRmHo)
