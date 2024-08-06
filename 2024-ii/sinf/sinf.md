@@ -83,5 +83,5 @@ $$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T
 3. DOLCE, Osvaldo; POMPEO, José N. **Fundamentos de matemática elementar: geometria plana**. v. 9. São Paulo: Atual, 1992.
 4. NETO, Antônio C. M. **Tópicos de matemática elementar: números reais**. (Coleção do Professor de Matemática). v. 1. Rio de Janeiro: SBM, 2013.
 
-# LINKS ÚTEIS
- - [Links úteis](https://j5rodrib.github.io/home/2024-ii/links-uteis.html)
+# MATERIAL DE APOIO
+ - [Material de apoio](https://j5rodrib.github.io/home/2024-ii/links-uteis.html)
