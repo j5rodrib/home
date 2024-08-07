@@ -12,6 +12,9 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
     - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<eciv\> no assunto, do contrário será filtrado e jogado na lixeira!
 - Horário de atendimento - plantão de dúvidas: estarei disponível às terças-feiras, das 18h30 às 22h, na sala do Prof. Willy no INMA.
 
+- [Resultado da avaliação diagnóstica](./eciv-ava-diag.pdf)
+
+  
 # DISCIPLINA: CÁLCULO I - 68h
 
 -  Números reais e funções de uma variável real a valores reais;
