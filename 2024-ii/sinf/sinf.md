@@ -12,6 +12,8 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
     - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<sinf\> no assunto, do contrário será filtrado e jogado na lixeira!
 - Horário de atendimento - plantão de dúvidas: estarei disponível às terças-feiras, das 18h30 às 22h, na sala do Prof. Willy no INMA.
 
+- [Resultado da avaliação diagnóstica](./sinf-ava-diag.pdf)
+
 # DISCIPLINA: MATEMÁTICA ELEMENTAR - 68h
 1. Números reais;
 2. Equações e Inequações;
