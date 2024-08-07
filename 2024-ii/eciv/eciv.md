@@ -98,4 +98,5 @@ $$ NF = \min\left(10, \frac{3\times P_1 + 4 \times P_2 + 2\times T_1 + 2\times T
 
 # MATERIAL DE APOIO
  - [Material de apoio](https://j5rodrib.github.io/home/2024-ii/links-uteis.html)
- 
+
+ - [Listas de exercícios](https://j5rodrib.github.io/home/2024-ii/anexos/calc1/calc1.html) 
