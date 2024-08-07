@@ -11,6 +11,8 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
     - ⚠️<strong style="color:#ff0000;">ATENÇÃO:</strong> enviar email com \<efis\> no assunto, do contrário será filtrado e jogado na lixeira!
 - Horário de atendimento - plantão de dúvidas: estarei disponível às sextas-feiras, das 07h15 às 11h, na sala do Prof. Willy no INMA. Também poderei atender nas terças-feiras, no mesmo horário e local, mas somente quando solicitado por e-mail previamente.
 
+- [Resultado da avaliação diagnóstica](./ava-diag.pdf)
+
 # DISCIPLINA: CÁLCULO I - 68h
 
 - Números reais e funções de uma variável real a valores reais;
