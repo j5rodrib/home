@@ -28,8 +28,8 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-
 | Aula         |       Dia       | Assunto                                                   |
 | :----------- | :-------------: | :-------------------------------------------------------- |
 | 1a           |     05 Ago      | Apresentação, plano da disciplina e avaliação diagnóstica |
-| 1b           |     07 Ago      | Funções                                                   |
-| 2a           |     12 Ago      | Funções                                                   |
+| 1b           |     07 Ago      | Números reais                                             |
+| 2a           |     12 Ago      | Números reais                                             |
 | 2b           |     14 Ago      | Funções                                                   |
 | 3a           |     19 Ago      | Funções                                                   |
 | 3b           |     21 Ago      | Funções                                                   |
