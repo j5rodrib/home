@@ -1,6 +1,7 @@
-# Lista de exercícios 1
+# Listas de exercícios
 
 - [[Lista 1]](../lista1.pdf)
 
 
 # Materiais de apoio de Matemática
+- [[Livro do Stewart]](../calc1/stewart.pdf)
