@@ -1,7 +1,7 @@
 
 # Lista de exercícios 1
 - [[Lista 1]](../lista1.pdf)
-
+- [[Lista 2]](../lista2.pdf)
   
 # Lista de exercícios 2
 - [[Lista 2a]](./exercicios-1.png)
