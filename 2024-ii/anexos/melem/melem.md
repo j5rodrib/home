@@ -2,6 +2,7 @@
 # Listas de exercícios
 
 - [[Lista 1]](../lista1.pdf)
+- [[Lista 2]](../lista2.pdf)
 
 # Materiais de apoio de matemática elementar
 
